@@ -5,7 +5,7 @@
 ### Full-Stack & Mobile Developer | AI Enthusiast | Open Source Builder
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Muhammad-Ahmad42/Portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-ahmad42)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ahmad-940653252/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad-Ahmad42)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Muhammad-Ahmad42&color=blueviolet&style=flat-square&label=Profile+Views)
@@ -31,7 +31,6 @@ I'm a passionate **Full-Stack & Mobile Developer** with hands-on experience buil
 
 ### 📱 Mobile Development
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
 ### 🌐 Web Development
@@ -67,7 +66,7 @@ I'm a passionate **Full-Stack & Mobile Developer** with hands-on experience buil
 | [**MedicineReminderApp**](https://github.com/Muhammad-Ahmad42/MedicineReminderApp) | Smart medicine reminder | React Native, FastAPI, MongoDB |
 | [**Portfolio**](https://github.com/Muhammad-Ahmad42/Portfolio) | Personal portfolio website | Next.js, TypeScript |
 | [**FineTuningLlama**](https://github.com/Muhammad-Ahmad42/FineTuningLlama) | Fine-tuning Llama for versatile chatbot | Python, Jupyter |
-| [**UniTools**](https://github.com/Muhammad-Ahmad42/UniTools) | University tools platform | Flutter, Dart |
+| [**UniTools**](https://github.com/Muhammad-Ahmad42/UniTools) | University tools platform | TypeScript |
 
 ---
 
